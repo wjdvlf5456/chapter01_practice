@@ -3,9 +3,7 @@ package com.javaex.ex01;
 public class Ex01 {
 	//	자료형 연습
 	public static void main (String[] args) {
-		//sout 입력 후 자동완성을 누르면 System.out.println(); 을 입력할 수 있다.
-		
-		
+		//sout 입력 후 자동완성을 누른 후 자동완성목록 맨 아레에 있으니 방향키⬆ 를 눌러주면 ︎System.out.println(); 을 입력할 수 있다.
 		/*
 		자료형 중 정수형 연습
 		byte와 short는 이진수로 계산할 때 맨 앞에 0이냐 1이냐로 양수인지 음수인지 정할 수 있다.
