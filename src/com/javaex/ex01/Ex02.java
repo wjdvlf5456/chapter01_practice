@@ -9,5 +9,9 @@ public class Ex02 {
 		실수형은 두가지로 float 과 double이 있다.
 		*/
 		
+		//float 은 소수점자리 
+		
+		
+		
 	}
 }
